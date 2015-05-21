@@ -1,0 +1,8 @@
+{
+  "name": "snake",
+  "version": "0.0.1",
+  "dependencies": {
+    "keypress": "^0.2.1",
+    "lodash": "^3.9.1"
+  }
+}
