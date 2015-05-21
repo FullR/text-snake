@@ -1,5 +1,5 @@
 {
-  "name": "snake",
+  "name": "text-snake",
   "version": "0.0.1",
   "dependencies": {
     "keypress": "^0.2.1",
