@@ -5,6 +5,7 @@
 ## How to Play:
 
 ```
+npm install
 node index.js
 ```
 
