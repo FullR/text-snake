@@ -1,6 +1,6 @@
 # Snake
 
-## Text version of the classic snake game written in NodeJS
+Text version of the classic snake game written in NodeJS
 
 ## How to Play:
 

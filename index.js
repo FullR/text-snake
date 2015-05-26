@@ -38,7 +38,7 @@ function reset() {
     spawnFood();
     snake = new Snake({
         segments: [
-            [Math.floor(columns/4), Math.floor(rows/4)]
+            [Math.floor(columns/2), Math.floor(rows/2)]
         ]
     }).grow();
     clearInterval(gameLoop);
@@ -92,7 +92,7 @@ function draw() {
             theme.wall
         ]);
     }
-    canvas.drawRaw(5, 0, "Score: " + score);
+    canvas.drawRaw(5, 0, " Score: " + score + " ");
     console.log(canvas.toString());
 }
 
